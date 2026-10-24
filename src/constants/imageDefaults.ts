@@ -24,7 +24,7 @@ export const CANONICAL_DEFAULTS = {
   CATEGORY_CUSTOM: '/uploads/client_bridal_27_3212c639.jpg',
 
   // Editorial & World Banners
-  HERO_MAIN: 'https://i.ibb.co/6JJ1Gbxx/Whats-App-Image-2026-10-24-at-00-23-32.jpg',
+  HERO_MAIN: '/uploads/hero_bridal_transparent.webp',
   HERO_BACKGROUND: '/uploads/hero_bridal_bg_1788959544066.jpg',
   HERO_PORTRAIT: '/uploads/1000863672_1792569460768_005529.jpg',
   FOUNDER_PORTRAIT: '/uploads/laide_founder_portrait_1789650582034.jpg',
